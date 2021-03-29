@@ -14,8 +14,8 @@ import javax.swing.JoptionPane;
  */
 public class Tugas_1 {
     public static void main(String[]  args){
-    String A = JOptionPane.showInputDialog("Masukkan Nilai Awal) = ");
-    String B = JOptionPane.showInputDialog("Masukkan Nilai Akhir) = ");
+    String A = JOptionPane.showInputDialog("Masukkan Nilai Awal = ");
+    String B = JOptionPane.showInputDialog("Masukkan Nilai Akhir = ");
     int genap = Integer.parseInt(A);
     int genap1 = Integer.parseInt(B);
    
