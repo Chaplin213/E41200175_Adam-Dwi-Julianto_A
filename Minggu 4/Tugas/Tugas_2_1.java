@@ -18,7 +18,7 @@ public class Tugas_2_1 {
          do{ 
             System.out.print(" "+  i + " "); 
             
-            i = i * 2;   
+            i = i + 2;   
             
             }while (i <= 100);
            System.out.println("\t");
